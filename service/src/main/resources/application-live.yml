@@ -8,7 +8,7 @@ spring:
     active: live
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
-    url: jdbc:mysql://realmeet-db.cbeewj0wx9bp.us-east-1.rds.amazonaws.com:3306/realmeet?serverTimezone=UTC&useSSL=false&allowPublicKeyRetrieval=true
+    url: jdbc:mysql://realmeet-db.cbeewj0wx9bp.us-east-1.rds.amazonaws.com:3306/realmeet-db?serverTimezone=UTC&useSSL=false
     username: admin
 
 
